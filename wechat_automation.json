@@ -1,1 +1,1 @@
-{"shutdown": ["shutdown", "password?"], "logging": false, "responses": {"test": "success"}}
+{"shutdown": ["shutdown", "password?"], "responses": {"test": "success"}, "logging": false}
